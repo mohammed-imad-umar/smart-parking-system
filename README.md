@@ -1,8 +1,6 @@
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-[![Email](https://img.shields.io/badge/Email-imadu1525%40gmail.com-red)](mailto:imadu1525@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammed%20Imad%20Umar-blue)](https://www.linkedin.com/in/mohammed-imad-umar)
-[![LeetCode](https://img.shields.io/badge/LeetCode-mohammed__imad__umar-orange)](https://leetcode.com/mohammed_imad_umar)
+
 
 # 🚗 Smart Parking System (Full Stack + Android)
 
@@ -59,8 +57,8 @@ node server.js
 ---
 
 ### 📫 Contact
-📧 **Email:** imadu1525@gmail.com  
-🔗 **LinkedIn:** [Mohammed Imad Umar](https://www.linkedin.com/in/mohammed-imad-umar)  
-💻 **LeetCode:** [mohammed_imad_umar](https://leetcode.com/mohammed_imad_umar)
+[![Email](https://img.shields.io/badge/Email-imadu1525%40gmail.com-red)](mailto:imadu1525@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammed%20Imad%20Umar-blue)](https://www.linkedin.com/in/mohammed-imad-umar)
+[![LeetCode](https://img.shields.io/badge/LeetCode-mohammed__imad__umar-orange)](https://leetcode.com/mohammed_imad_umar)
 
 ⭐ *"Smart parking, simplified."*
