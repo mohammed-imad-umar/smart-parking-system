@@ -51,8 +51,8 @@ node server.js
 ---
 
 ### 📸 Screenshots
-![App UI](docs/screenshot1.png)
-![Booking Screen](docs/screenshot2.png)
+#### 🖥️ Smart Parking System & Booking Screen
+![App and Booking Screens](docs/parking_screens.jpg)
 
 ---
 
